@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Reymel 👋
+## Hi, I'm Reymel 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjI1VjEwLjlINi40Nk03Ljg2IDYuNDRhMS40NSAxLjQ1IDAgMCAwLTEuNDUgMS40NSAxLjQ1IDEuNDUgMCAwIDAgMS40NSAxLjQ1IDEuNDUgMS40NSAwIDAgMCAxLjQ1LTEuNDUgMS40NSAxLjQ1IDAgMCAwLTEuNDUtMS40NVoiLz48L3N2Zz4=)](https://www.linkedin.com/in/reymel-sardenia-593462207/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:sardeniareymel@gmail.com)
@@ -58,6 +58,7 @@ Fourth-year BS Computer Science student with experience in Full-stack Web Develo
 | **[BicolaNER](https://github.com/CupNoodlez/BicolaNER)** | Neuro-Symbolic Named Entity Recognition for Central Bikol using feature functions and mDeBERTaV3-CRF. | `Flask` `PyTorch` `Hugging Face` `spaCy` `Prodigy` |
 | **[EcoDigest](https://github.com/CupNoodlez/EcoDigest)** | Multi-document summarization platform for environmental social media comments using FLAN-T5. | `Streamlit` `PyTorch` `Hugging Face` |
 | **[SkillCheck](https://github.com/CupNoodlez/SkillCheck)** | Online examination system designed for convenient student assessment and exam creation. | `Laravel` `TailwindCSS` `Alpine.js` `MySQL` |
+| **[Dam-Simulation](https://cdivus.github.io/DamSimulation/)** | Mamdani fuzzy logic implementation for reservoir control of dams. | `Vanilla JS` `Python` |
 | **[Rat-Maze](https://github.com/cDivus/RatMaze)** | A* Algorithm visualization using a Tom&Jerry inspired Rat Maze. | `Vanilla JS` |
 | **[Autocomplete-Visualizer](https://github.com/cDivus/Autocomplete-Visualizer)** | Autocomplete Visualization using Directed Acyclic Finite State Automaton and Trie using sorted method from Daciuk et al. | `Vanilla JS` `D3.js` |
 | **[eRehistroPH](https://github.com/lavieestbelle14/eRehistroPH)** | Digitalized Voter Registration System for Comelec. | `Next.js` `Supabase` `Tailwind CSS` |
