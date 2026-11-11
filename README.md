@@ -1,6 +1,7 @@
 <div align="center">
 
-## Hi, I'm Reymel 👋
+<img src="touch-me-just-a-chill-guy.gif" alt="I'm just a chill guy">
+<h2>Hi, I'm Reymel 👋</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjI1VjEwLjlINi40Nk03Ljg2IDYuNDRhMS40NSAxLjQ1IDAgMCAwLTEuNDUgMS40NSAxLjQ1IDEuNDUgMCAwIDAgMS40NSAxLjQ1IDEuNDUgMS40NSAwIDAgMCAxLjQ1LTEuNDUgMS40NSAxLjQ1IDAgMCAwLTEuNDUtMS40NVoiLz48L3N2Zz4=)](https://www.linkedin.com/in/reymel-sardenia-593462207/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:sardeniareymel@gmail.com)
