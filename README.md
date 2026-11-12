@@ -9,7 +9,7 @@
 
 </div>
 
-Fourth-year BS Computer Science student with experience in Full-stack Web Development and ML Engineering. My focus centers on AI Engineering and I'm continuously deepening my knowledge of AI systems and Backend Infrastructure.
+I build products I use.
 
 <div align="center">
 
