@@ -9,9 +9,10 @@
 
 </div>
 
-I build products I use.
 
 <div align="center">
+I build products I use.
+
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
